@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosApi = axios.create({
-    baseURL: 'https://burger-group-js14-default-rtdb.europe-west1.firebasedatabase.app',
+    baseURL: 'https://burgerakbar-js14-default-rtdb.europe-west1.firebasedatabase.app',
 });
 
 // axiosApi.interceptors.request.use( req => {
